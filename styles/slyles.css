@@ -1,0 +1,10 @@
+h1,h2,h3{
+    background-color: red;
+    padding: 10px;
+}
+p{
+    background-color: azure;
+    border: 20px;
+    padding: 20px;
+    box-shadow: black;
+}
